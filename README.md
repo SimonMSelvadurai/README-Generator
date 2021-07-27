@@ -1,14 +1,6 @@
 # README-Generator
+
 This project to create a Professional README Generator using node.js
-
-
-## User Story
-
-```md
-AS A developer
-I WANT a README generator
-SO THAT I can quickly create a professional README for a new project
-```
 
 ## Acceptance Criteria
 
@@ -29,3 +21,23 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
+
+## Installation
+
+To install dependencies, run the following:
+` npm i `
+
+## License
+
+This repository is a open source project.
+
+## Usage
+
+This project accepts the command line inputs from the user such as Project Name, Istallation and test run
+commands, licences, github username email address.
+
+This is very much handy for the developer to create an effective README File.
+
+## Technologies
+
+Node JS

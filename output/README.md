@@ -1,8 +1,8 @@
-# Project Super Dooper Project
+# Employee Portal Management System
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Description
-  Short Description of this project 
+  This is website/app helps to track the employee records.
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -16,11 +16,11 @@
   npm i
   `
   ## Usage
-  Used to create easy and efficient readme file
+  repository path, commands,check-in and check-out process and reviews
   ## License
   This repository is licensed under the MIT license.
   ## Contributing
-  developers and testers
+  Checkout, checkin only after review to develop branch
   ## Tests
   To run tests, run the following:
   `
