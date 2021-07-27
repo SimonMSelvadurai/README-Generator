@@ -2,6 +2,10 @@
 
 This project to create a Professional README Generator using node.js
 
+Source code can be found : https://github.com/SimonMSelvadurai/README-Generator
+Walkthrough video : README-Generator/utils/images/Video_Walkthrough_ZIP.zip
+
+
 ## Acceptance Criteria
 
 ```md
