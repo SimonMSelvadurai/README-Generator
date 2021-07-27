@@ -41,3 +41,14 @@ This is very much handy for the developer to create an effective README File.
 ## Technologies
 
 Node JS
+
+## Screen Print 
+Generate README from Command Line : 
+
+![Generate README](https://user-images.githubusercontent.com/80757990/127107332-4c1f08aa-e98d-45ac-b4d5-f0aa0a1fae7e.png)
+
+Output README File 
+
+![image](https://user-images.githubusercontent.com/80757990/127107451-4de9c9ce-36e2-458a-81a6-47789a32a33a.png)
+
+
